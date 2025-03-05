@@ -1,0 +1,9 @@
+@import "tailwindcss";
+@layer base{
+    .dot {
+        @apply w-[10px] h-[10px] rounded-full bg-white/50 absolute top-[20%] right-[20%];
+    }
+    .bubble {
+        @apply h-[60px] w-[60px] border-2 border-white/70 rounded-full absolute ;
+    }
+}
