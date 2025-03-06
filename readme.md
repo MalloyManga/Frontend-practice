@@ -1,1 +1,1 @@
-Frontend biginner's prectice project!
+Frontend beginner's practice project!😎
