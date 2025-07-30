@@ -1,1 +1,1 @@
-Frontend beginner's practice project!😎
+This project has been abandoned
